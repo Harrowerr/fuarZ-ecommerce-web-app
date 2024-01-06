@@ -8,7 +8,7 @@
 
 
 
-## :memo: About the Project 
+## About the Project 
 
 fuarZ is an MVC e-commerce web application built by using PHP, Laravel Framework, SQL and Javascript for selling of the clothes (t-shirts, jeans etc.)
 Web application contains an admin panel that allows admin to control products, categories of the products and orders. This web application also allows users to order the products.
@@ -16,8 +16,7 @@ This payment system built by using Stripe API.
 
 ## Preview
 
-https://github.com/Harrowerr/fuarZ-ecommerce-web-app/assets/106821964/284dc0f9-7052-4019-a175-e796c26f7180
-
+https://github.com/Harrowerr/fuarZ-ecommerce-web-app/assets/106821964/641badbf-d1b3-45ff-809e-3a9a0b3565ca
 
 
 ## :rocket: Development
