@@ -8,11 +8,12 @@
 
 
 *.php linguist-detectable=true  
+*.Blade linguist-detectable=false 
 *.css linguist-detectable=false
 *.scss linguist-detectable=false  
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
-*.Blade linguist-detectable=false   
+  
 
 /.github export-ignore
 CHANGELOG.md export-ignore
