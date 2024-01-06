@@ -81,4 +81,4 @@ https://github.com/Harrowerr/fuarZ-ecommerce-web-app/assets/106821964/641badbf-d
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The fuarZ MVC e-commerce web application is open-source software licensed under the [MIT license](License.md).
