@@ -13,7 +13,6 @@
     <li>fuarZ is an MVC e-commerce web application built by using PHP, Laravel Framework, SQL and Javascript for selling of the clothes (t-shirts, jeans etc.)</li>
     <li>Web application contains an admin panel that allows admin to control products, categories of the products and orders. This web application also allows users to order the products.</li>
     <li>This payment system built by using Stripe API. </li>
-    <li></li>
 </ul>
 
 
