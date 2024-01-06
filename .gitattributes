@@ -8,7 +8,7 @@
 
 
 *.php linguist-detectable=true  
-*.Blade linguist-detectable=false 
+*.blade linguist-detectable=false 
 *.css linguist-detectable=false
 *.scss linguist-detectable=false  
 *.js linguist-detectable=false  
