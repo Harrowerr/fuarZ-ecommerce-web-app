@@ -4,9 +4,6 @@
 [![PHP 8.0](https://img.shields.io/badge/PHP-8.0-blue?logo=php)](https://github.com/topics/php)
 [![Laravel](https://img.shields.io/badge/Laravel%20Framework-9.0-blue?logo=laravel)](https://github.com/topics/laravel)
 
-## Installation
-
-
 
 ## About the Project 
 <ul>
@@ -15,6 +12,7 @@
     <li>This payment system built by using Stripe API. </li>
 </ul>
 
+## Installation
 
 ## Preview
 
