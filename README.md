@@ -14,9 +14,6 @@
 
 ## Installation
 
-
-
-
 ```php
 // Step 1: Creating the Laravel project by using composer after instaling PHP and Composer successfully
 composer create-project laravel/laravel EcommercePro
