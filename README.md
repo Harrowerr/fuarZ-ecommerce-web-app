@@ -1,7 +1,7 @@
 # fuarZ E-commerce Web Application
 
 [![Windows](https://img.shields.io/badge/Windows-blue?logo=windows)](https://github.com/topics/windows)
-[![PHP 8.0](https://img.shields.io/badge/PHP-8.0-blue?logo=php)](https://github.com/topics/php)
+[![PHP 8.3](https://img.shields.io/badge/PHP-8.3-blue?logo=php)](https://github.com/topics/php)
 [![Laravel](https://img.shields.io/badge/Laravel%20Framework-9.0-blue?logo=laravel)](https://github.com/topics/laravel)
 
 
