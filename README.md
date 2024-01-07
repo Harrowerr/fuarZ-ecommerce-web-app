@@ -72,7 +72,7 @@ https://github.com/Harrowerr/fuarZ-ecommerce-web-app/assets/106821964/641badbf-d
 
 
 ## Development
-- Language: **[PHP](https://github.com/dotnet/csharplang) 10.0**
+- Language: **[PHP](https://github.com/dotnet/csharplang) 8.3**
 - Framework: **[.Laravel](https://github.com/topics/laravel) Framework 9.0** 
 - IDE: **[VSCode](https://github.com/microsoft)**
 
